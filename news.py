@@ -7,7 +7,7 @@ import json
 from datetime import datetime
 
 web = 'https://timesofindia.indiatimes.com/mostcommentedsec/msid-8236896.cms'
-path = '~/Music/chromedriver_linux64'  # introduce path here
+path = '~/Music/chromedriver_linux64'  # introduce path here ,enter your own  chrome driver path here 
 
 now = datetime.now()
 month_day_year = now.strftime("%m-%d-%Y")
